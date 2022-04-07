@@ -1,0 +1,35 @@
+
+
+  
+  body {
+    background-image: url("background-image.png");
+    
+
+        background-position: top left;
+        
+  }
+ 
+
+  
+
+  table {
+    border-width: 3px;
+    background-color: rgb(229, 186, 229);
+  }
+  tr, td {
+    padding: 3px;
+  }
+  
+  .b1 {border-style:double;}
+  .b2 {border-style:double;}
+  .b3 {border-style:double;}
+  .b4 {border-style:double;}
+  .b5 {border-style:double;}
+  .b6 {border-style:double;}
+  .b7 {border-style:double;}
+  .b8 {border-style:double;}
+  .b9 {border-style:double;}
+  .b10 {border-style:double;}
+
+
+  
